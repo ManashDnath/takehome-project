@@ -1,0 +1,72 @@
+.group{
+    display: flex;
+    
+    width: 1135px;
+height: 564px;
+justify-content:space-between;
+margin-left: 153px;
+background-color: #111111;
+
+
+}
+.group-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.text-thin{
+    font-weight: 500;
+    font-size: 66px;
+    color: 
+    #FFFFFF;
+}
+
+.text-thick{
+    font-weight: 700;
+    font-size: 66px;
+    color: #FFFFFF;
+}
+
+p{
+    width: 560px;
+    height: 99px;
+    font-weight: 500;
+    font-size: 18px;
+    color: #FFFFFF;
+    opacity: 30%;
+}
+
+.group-input{
+    display: flex;
+    width: 438px;
+    height: 74px;
+    position: relative;
+
+}
+
+input{
+    width: 438px;
+    height: 74px;
+    border-radius: 43px;
+}
+
+.talk{
+    width: 137px;
+    height: 62px;
+    border-radius: 43px;
+    position: absolute;
+    margin-left: -142px;
+    margin-top: 7px;
+    cursor: pointer;
+    background-color: #E3B748;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+/* .group-img{
+    width: 467.71px;
+height: 544.71px;
+
+
+} */

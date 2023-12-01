@@ -1,0 +1,43 @@
+.parent-feed {
+  width: 1137px;
+  height: 626px;
+  margin-left: 154px;
+  margin-top: 186px;
+  background-color: #1d1d1d;
+}
+
+.feed-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.feed-text {
+  width: 513px;
+  height: 187px;
+
+  font-size: 54px;
+  font-weight: 600;
+}
+
+.feed-img-arr {
+  margin-top: 60px;
+}
+
+.choose-filter-feed {
+  display: flex;
+
+  justify-content: space-between;
+  margin-top: 70px;
+}
+
+.menu-card-feed {
+  width: 359px;
+  height: 368px;
+  border: 2px solid green;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding: 10px;
+  border-radius: 14px;
+}
